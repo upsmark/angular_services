@@ -1,0 +1,33 @@
+div {
+
+  border: 1px solid red;
+  background-color: pink;
+  width: 350px;
+  height: 475px;
+  margin: auto;
+
+
+}
+
+body {
+
+  background-color: #c4d1cc;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+  font-family: ‘Lucida Console’, Monaco, monospace;
+  text-align: center;
+}
+
+a {
+
+  font-size: 25px;
+  font-family: ‘Lucida Console’, Monaco, monospace;
+
+}
+
+form {
+  margin: auto;
+}
